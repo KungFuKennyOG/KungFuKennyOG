@@ -7,6 +7,6 @@ Hello there, I am Kenny and I try my best to better my programming skills by doi
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KungFuKennyOG)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KungFuKennyOG)
 
 
