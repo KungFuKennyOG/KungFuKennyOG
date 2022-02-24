@@ -17,6 +17,6 @@ I am Kenny, CS student at Concordia University, and I try my best to better my p
 
 ### LeetCode Stats
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=weildsiense)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=weildsiense)]
 
 
