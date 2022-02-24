@@ -9,7 +9,7 @@ I am Kenny, CS student at Concordia University, and I try my best to better my p
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KungFuKennyOG&theme=midnight)
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=weildsiense&theme=midnight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KungFuKennyOG)
+![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=weildsiense)
 
 
