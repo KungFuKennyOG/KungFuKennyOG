@@ -14,10 +14,5 @@ I am Kenny, CS student at Concordia University, and I try my best to better my p
 ### Top Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KungFuKennyOG)
-### LeetCode Stats
-
-<img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weildsiense" width="400"/>
-</a>
-
 
 
