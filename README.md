@@ -5,7 +5,7 @@ I am Kenny, CS student at Concordia University, and I try my best to better my p
 
 🌱 Currently learning JavaScript
 
-🔭 Currently working on my personal Discord bot
+🔭 Currently working on a hot dog classifier
 
 📫 How to reach me: kenny.dao0513@gmail.com
 
